@@ -1,5 +1,5 @@
-NAME="Acreetion-OS-v1.0"
-PRETTY_NAME="Acreetion Linux"
+NAME="Acreetion-OS-Alpha-Branch"
+PRETTY_NAME="Acreetion Linux DevBuild"
 ID=acreetion
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
